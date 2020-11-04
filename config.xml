@@ -24,7 +24,7 @@
 	<!-- PhoneGap plugin declaration -->
 	
 	<plugin name="cordova-build-architecture" spec="https://github.com/MBuchalik/cordova-build-architecture.git#v1.0.4" source="git" />
-        <content src="http://hiwi.online/" />
+        <content src="https://hiwi.online/" />
 
 	<!-- Whitelist policy  -->
 	<access origin="*" />
