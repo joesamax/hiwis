@@ -11,7 +11,7 @@
 
 	<author href="" email=""></author>
 
-	<platform name="android" />
+	
 
 	<!-- General preferences -->
 	<preference name="android-targetSdkVersion" value="28" />
